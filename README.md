@@ -34,6 +34,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="height:300px;width:50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="height:300px;width:50%;"/>
 </p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="height:300px;width:50%;"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="height:300px;width:50%;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
