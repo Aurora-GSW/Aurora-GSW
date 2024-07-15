@@ -1,7 +1,7 @@
 ### 你好，我是 [GSW] 👋
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.xFxe9dUNvvqBde_xMmdUgAHaEK?w=316&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Profile Banner" style="width:100%;height:auto;"/>
+  <img src="https://pic2.zhimg.com/v2-70119c437cff012b67f2bcc385f4180e_r.jpg?source=1940ef5c" alt="Profile Banner" style="width:100%;height:auto;"/>
 </p>
 
 <p align="center">
@@ -31,13 +31,13 @@
 ## 📈 GitHub 统计
 
 
-<table style="width:100%;">
+<table>
   <tr>
-    <td style="width:50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="width:100%; height:100%;" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="width:100%;" />
     </td>
-    <td style="width:50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="width:100%; height:100%;" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="width:100%;" />
     </td>
   </tr>
 </table>
