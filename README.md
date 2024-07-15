@@ -31,19 +31,9 @@
 ## 📈 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="height:300px;width:500px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="height:350px;width:500px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="height:300px;width:500px;"/>
 </p>
-<table>
-  <tr>
-    <td style="height:300px;width:50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="height:100%;width:100%;"/>
-    </td>
-    <td style="height:300px;width:50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="height:100%;width:100%;"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
