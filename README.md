@@ -31,7 +31,7 @@
 
 ## 🌟 开源项目
 
-- [项目名称](https://github.com/gswysy/requestor) - 一个简易的请求库
+- [requestor](https://github.com/gswysy/requestor) - 一个简易的请求库
 
 ## 📈 GitHub 统计
 
