@@ -30,13 +30,9 @@
 
 ## 📈 GitHub 统计
 
-<p align="center">
+<p style="width:100%">
   <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="width:50%;height:auto;" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="width:60%;height:auto;" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/gswysy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="width:50%;height:auto;" />
 </p>
 
 ---
