@@ -1,4 +1,4 @@
-# 你好，我是 [你的名字] 👋
+### 你好，我是 [GSW] 👋
 
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.xFxe9dUNvvqBde_xMmdUgAHaEK?w=316&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Profile Banner" style="width:100%;height:auto;"/>
@@ -6,10 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/gswysy.svg?style=social&label=Follow" alt="GitHub followers" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width:50%;height:auto;" />
 </p>
 
 ## 🚀 关于我
@@ -35,14 +31,9 @@
 ## 📈 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="width:60%;height:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gswysy&show_icons=true&theme=radical" alt="GitHub Stats" style="width:50%;height:auto;" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="width:60%;height:auto;" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswysy&layout=compact&theme=radical" alt="Top Languages" style="width:60%;height:auto;" />
-</p>
-
-## 🔗 联系我
 
 <p align="center">
   <a href="https://github.com/gswysy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
