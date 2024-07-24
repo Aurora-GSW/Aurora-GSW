@@ -31,7 +31,7 @@
 
 ## 🌟 开源项目
 
-- [requestor](https://github.com/gswysy/requestor) - 一个简单的请求库，支持请求缓存、并发、幂等、串行、重试。
+- [requestors](https://github.com/gswysy/requestors) - 一个简单的请求库，支持请求缓存、并发、幂等、串行、重试。
 
 ## 📈 GitHub 统计
 
