@@ -32,6 +32,7 @@
 ## 🌟 开源项目
 
 - [requestors](https://github.com/gswysy/requestors) - 一个简单的请求库，支持请求缓存、并发、幂等、串行、重试。
+- [react-atom-store](https://github.com/gswysy/react-atom-store) - 一个轻量级react状态管理仓库，可以帮助你解决全局数据共享问题、平常开发中跨组件通信繁琐的数据传输问题，每个仓库的存在都是独立，扁平的。
 
 ## 📈 GitHub 统计
 
