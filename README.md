@@ -1,6 +1,23 @@
-<p align="center">
-  <img src="https://img.shields.io/github/followers/gswysy.svg?style=social&label=Follow" alt="GitHub followers" />
-</p>
+### <div align="center">I'm Aurora, A front-end developer :partying_face: </div>  
+  
+
+- :sparkling_heart:  As a post-00s, I will always remain curious about the world!
+  
+
+- :skier:  Flowers, the world, and the ethereal realm of CloudNative—each holds a cherished place in my heart.
+  
+
+- :whale:  Mainly doing work related to React and Vue. Of course, I also guest star in NodeJS.  
+  
+
+- :book:  Savoring the moments of coding, relishing the intricate dance of thought.
+
+
+- :crossed_fingers:   ***Here's to a future filled with love, laughter, and endless possibilities.***
+
+- >I am currently learning Front-end advanced knowledge and look forward to communicating with you further!
+
+<br/> 
 
 ## 🚀 about
 
