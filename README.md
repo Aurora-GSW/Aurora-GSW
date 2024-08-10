@@ -1,18 +1,12 @@
-### 你好，我是 [GSW] 👋
-
-<p align="center">
-  <img src="https://pic2.zhimg.com/v2-70119c437cff012b67f2bcc385f4180e_r.jpg?source=1940ef5c" alt="Profile Banner" style="width:100%;height:auto;"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/gswysy.svg?style=social&label=Follow" alt="GitHub followers" />
 </p>
 
-## 🚀 关于我
+## 🚀 about
 
-一个充满激情的前端开发工程师，热衷于构建高效、现代的 web 应用程序。
+A passionate front-end development engineer with a passion for building efficient, modern web applications.
 
-## 🔧 技能
+## 🔧 skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -29,12 +23,10 @@
   <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" alt="Rollup" />
 </p>
 
-## 🌟 开源项目
+## 🌟 open source project
 
-- [requestors](https://github.com/gswysy/requestors) - 一个简单的请求库，支持请求缓存、并发、幂等、串行、重试。
-- [react-atom-store](https://github.com/gswysy/react-atom-store) - 一个轻量级react状态管理仓库，可以帮助你解决全局数据共享问题、平常开发中跨组件通信繁琐的数据传输问题，每个仓库的存在都是独立，扁平的。
-
-## 📈 GitHub 统计
+- [requestors](https://github.com/gswysy/requestors) - Adapts to all request scenarios encountered in project development, such as request concurrency, serialization, idempotency, caching, retries, etc.
+- [react-atom-store](https://github.com/gswysy/react-atom-store) - A lightweight react state management repository , can help you solve the global data sharing problems , the usual development of cross-component communication cumbersome data transfer problems , the existence of each warehouse is independent , flat .
 
 <table style="width:100%;">
   <tr>
@@ -50,5 +42,5 @@
 ---
 
 <p align="center">
-  ⭐️ 如果你喜欢我的项目，请给我一个 star！
+  ⭐️ If you like my project, please give me a star!
 </p>
