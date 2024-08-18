@@ -42,8 +42,9 @@ A passionate front-end development engineer with a passion for building efficien
 
 ## 🌟 open source project
 
-- [requestors](https://github.com/gswysy/requestors) - Adapts to all request scenarios encountered in project development, such as request concurrency, serialization, idempotency, caching, retries, etc.
-- [react-atom-store](https://github.com/gswysy/react-atom-store) - A lightweight react state management repository , can help you solve the global data sharing problems , the usual development of cross-component communication cumbersome data transfer problems , the existence of each warehouse is independent , flat .
+- [requestors](https://github.com/Aurora-GSW/requestors) - Adapts to all request scenarios encountered in project development, such as request concurrency, serialization, idempotency, caching, retries, etc.
+- [react-atom-store](https://github.com/Aurora-GSW/react-atom-store) - A lightweight react state management repository , can help you solve the global data sharing problems , the usual development of cross-component communication cumbersome data transfer problems , the existence of each warehouse is independent , flat .
+- [vite-plugin-vue-auto-routes](https://github.com/Aurora-GSW/vite-plugin-vue-auto-routes) - A conventionally routed plugin that quickly generates corresponding routing profiles for you (convention over configuration)
 
 <table style="width:100%;">
   <tr>
