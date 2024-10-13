@@ -45,6 +45,7 @@ A passionate front-end development engineer with a passion for building efficien
 - [requestors](https://github.com/Aurora-GSW/requestors) - Adapts to all request scenarios encountered in project development, such as request concurrency, serialization, idempotency, caching, retries, etc.
 - [react-atom-store](https://github.com/Aurora-GSW/react-atom-store) - A lightweight react state management repository , can help you solve the global data sharing problems , the usual development of cross-component communication cumbersome data transfer problems , the existence of each warehouse is independent , flat .
 - [vite-plugin-vue-auto-routes](https://github.com/Aurora-GSW/vite-plugin-vue-auto-routes) - A conventionally routed plugin that quickly generates corresponding routing profiles for you (convention over configuration)
+- [steady-timer](https://github.com/Aurora-GSW/steady-timer) - steady-timer主要解决浏览器setTimeout和setInterval中存在的一些问题，例如计时不准确，浏览器标签页失活时计时器的节流问题，steady-timer会劫持模拟主线程的setTimeout和setInterval，提高其计时的准确性，以及确保失活标签页下的计时器也能正常运转。
 
 <table style="width:100%;">
   <tr>
